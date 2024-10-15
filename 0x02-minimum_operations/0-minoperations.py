@@ -1,11 +1,4 @@
 #!/usr/bin/python3
-'''
-Simple script to calculate the minimum number of operations needed to obtain
-n 'H' characters using the operations Copy All and Paste.
-'''
-
-
-#!/usr/bin/python3
 
 
 def minOperations(n):
